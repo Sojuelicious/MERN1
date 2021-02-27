@@ -41,6 +41,7 @@ const onSubmit = e => {
             <div className="contenedor-form sombra-dark">
                 <h1>Obtener una cuenta</h1>
 
+
                 <form
                     onSubmit={onSubmit}
                 >
